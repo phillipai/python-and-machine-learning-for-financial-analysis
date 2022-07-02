@@ -1,1 +1,1 @@
-# python-and-machine-learning-for-financial-analysis
+# Python & Machine Learning for Financial Analysis
